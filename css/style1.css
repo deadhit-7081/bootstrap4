@@ -1,0 +1,13 @@
+.jumbotron
+{
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background: blueviolet;
+    color:floralwhite;
+}
+.footer
+{
+    background-color: lightgrey;
+    margin:0px auto;
+    padding:20px 0px 20px 0px;
+}
